@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="KubernetesApiProvider">{}</component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EjerciciosClaseServ/Ejercicio01/pom.xml" />
+        <option value="$PROJECT_DIR$/EjerciciosClaseServ/Ejercicio02/pom.xml" />
+        <option value="$PROJECT_DIR$/EjerciciosClaseServ/EjemplosClase/pom.xml" />
+        <option value="$PROJECT_DIR$/EjerciciosClaseServ/ActividadEntregable3/pom.xml" />
+        <option value="$PROJECT_DIR$/2DAW-ServidorEjercicios/EjerciciosClaseServ/Ejercicio01/pom.xml" />
+        <option value="$PROJECT_DIR$/2DAW-ServidorEjercicios/EjerciciosClaseServ/EjemplosClase/pom.xml" />
+        <option value="$PROJECT_DIR$/2DAW-ServidorEjercicios/EjerciciosClaseServ/ActividadEntregable3/pom.xml" />
+        <option value="$PROJECT_DIR$/Ejercicio03/pom.xml" />
+        <option value="$PROJECT_DIR$/EjerciciosClaseServ/Ejercicio03/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Ejercicio03/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
 </project>

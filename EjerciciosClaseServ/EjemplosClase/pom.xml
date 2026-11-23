@@ -12,6 +12,7 @@
         <module>HolaMundoWeb</module>
         <module>OperadorAritmetico</module>
         <module>Ejercicio3</module>
+        <module>CorreccionEjercicioFormularios</module>
     </modules>
 
     <properties>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider">{}</component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/2DAW-ServidorEjercicios/EjerciciosClaseServ/ActividadEntregable3/pom.xml" />
         <option value="$PROJECT_DIR$/Ejercicio03/pom.xml" />
         <option value="$PROJECT_DIR$/EjerciciosClaseServ/Ejercicio03/pom.xml" />
+        <option value="$PROJECT_DIR$/EjerciciosClaseServ/Ejercicio08/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
